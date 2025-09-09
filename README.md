@@ -1,4 +1,4 @@
-# currency-converter
+# Currency-converter
  
 Convert between currencies using live exchange rates.
  
